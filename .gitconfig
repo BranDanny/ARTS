@@ -1,0 +1,6 @@
+[user]
+name = ‘Brandanny’
+email = ‘zhangdeng1010@163.com’
+
+[credential] 
+helper = store
